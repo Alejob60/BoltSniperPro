@@ -18,6 +18,16 @@ Build the **ultimate DeFi sniping bot for Sui**, capable of:
 - Modular, scalable, and production-ready.
 - Native DeFi architecture: smart contracts + execution engine.
 
+## 🌟 Main Features
+- ⚡ **Ultra-Fast Sniper Trades** using Bolt Liquidity Pools
+- 🛡️ **Sui Blockchain Native**: High-speed, low-fee transactions
+- 🧠 **AI-Driven Predictions**: Smart entry and exit points
+- 📈 **Real-time Portfolio Monitoring**
+- 🔔 **Instant Alerts via Telegram and Web Notifications**
+- 🧩 **Modular and Scalable Architecture**
+- 🛠️ **API-Ready**: Web3.js + FastAPI backend
+- 🚀 **Future Multi-Chain Expansion**
+
 ## ⚙️ Project Architecture
 BoltSniperPro/ 
 ├── bot/ # Trading bot core 
@@ -72,3 +82,11 @@ This project is licensed under the [Apache 2.0 License](LICENSE).
 
 > **BoltSniper Pro** — *Unleashing the power of DeFi sniping.*
 
+
+## 🚀 Getting Started
+
+Clone the project:
+
+```bash
+git clone https://github.com/Alejob60/BoltSniperPro.git
+cd BoltSniperPro

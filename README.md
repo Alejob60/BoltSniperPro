@@ -1,22 +1,74 @@
-# BoltSniper Pro 🚀
+# 🚀 BoltSniper Pro
 
-**BoltSniper Pro** es un DeFi Trading Bot de nueva generación diseñado para capturar oportunidades de liquidez ultrarrápida en la blockchain de **SUI**, utilizando tecnología **Bolt Liquidity** y algoritmos de **IA adaptativa**.
+**BoltSniper Pro** is an ultra-fast DeFi trading system based on **Bolt Liquidity Protocol** and deployed on the **Sui Blockchain**.
 
-## Tecnologías
-- Python 3.11+
-- Web3.py
-- Sui Blockchain SDK
-- Bolt Liquidity API
-- FastAPI
-- Inteligencia Artificial (IA adaptativa)
+This bot is purpose-built for executing *sniping* and *liquidity event* operations, leveraging emerging pool liquidity events and new market opportunities with blazing speed.
 
-## Características principales
-- 🛡️ Monitoreo de liquidez en tiempo real
-- ⚡ Ejecución instantánea de órdenes sniping
-- 🔥 Aprendizaje automático para mejora continua
-- 📈 Análisis de datos de pools dinámicos
+## 🎯 Vision
 
-## Objetivo
-Desarrollar la herramienta de trading DeFi más veloz, segura y eficiente para nuevos lanzamientos de liquidez, buscando maximizar el ROI en microsegundos.
+Build the **ultimate DeFi sniping bot for Sui**, capable of:
+- Detecting and anticipating liquidity movements.
+- Executing transactions in milliseconds.
+- Maximizing profits during new listings or liquidity launches.
+
+## 🔥 Why BoltSniper Pro?
+
+- Direct integration with **Bolt Liquidity Protocol**.
+- Lightning-fast execution and predictive analysis.
+- Modular, scalable, and production-ready.
+- Native DeFi architecture: smart contracts + execution engine.
+
+## ⚙️ Project Architecture
+BoltSniperPro/ 
+├── bot/ # Trading bot core 
+├── contracts/ # Smart contracts in Move (for Sui) 
+├── infra/ # CI/CD automation, Docker, deployments 
+├── docs/ # Technical documentation and whitepaper 
+├── tests/ # Unit and integration tests 
+└── README.md # Main documentation
+
+
+## 🛠️ Technologies
+
+- **Sui Blockchain** (Move Language Smart Contracts)
+- **Bolt Liquidity SDK**
+- **Python** (Bot backend)
+- **FastAPI** (API for bot control)
+- **Docker** (Containerization and deployment)
+- **AWS / Azure** (Cloud infrastructure)
+- **CI/CD Pipelines** (GitHub Actions + Terraform)
+
+## 🧠 Main Modules
+
+- **Sniper Engine**: Listens for new Bolt liquidity events.
+- **Predictive Engine**: AI validation for optimal actions.
+- **Order Executor**: Signs and sends transactions in real time.
+- **Risk Manager**: Dynamic risk control for active positions.
+- **Dashboard** (in progress): Web panel for live trade visualization.
+
+## 📈 Initial Roadmap
+
+- [x] Create public repository and project structure ✅
+- [ ] Develop first prototype connecting to Bolt Liquidity
+- [ ] Implement basic sniping bot in Python
+- [ ] Build smart contract for pool detection in Move
+- [ ] Deploy first version on Sui Testnet
+- [ ] Optimize execution times and latency
+
+## 🤝 Contributing
+
+We are looking for contributions from:
+- Move / Rust developers
+- DeFi engineers
+- High-Frequency Trading (HFT) specialists
+
+**Interested?** Reach out and collaborate!
+
+## 📄 License
+
+This project is licensed under the [Apache 2.0 License](LICENSE).
 
 ---
+
+> **BoltSniper Pro** — *Unleashing the power of DeFi sniping.*
+
